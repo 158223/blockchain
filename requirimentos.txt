@@ -1,0 +1,8 @@
+1-Atualize o pip para a versão mais recente: pip install -U pip
+pip install virtualenv
+2- Estar em dentro do virtuallev criado
+3- Após rodar os comando:
+	pip install flask
+	pip install mysql-connector-python
+
+
